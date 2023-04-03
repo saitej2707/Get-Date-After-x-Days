@@ -7,4 +7,4 @@ const getDateAfterXDays = (days) => {
 };
 
 module.exports = getDateAfterXDays;
-console.log(getDateAfterXDays);
+
